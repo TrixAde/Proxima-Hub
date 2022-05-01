@@ -13,3 +13,6 @@ end
 if game.PlaceId == 9230434873 then -- Logitech Song Breaker Awards 
       loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Logitech-Song-Breaker-Awards.lua"))()
 end
+if game.PlaceId == 8523408215 then -- Alo Sanctuary
+      loadstring(game:HttpGet(('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Alo-Sanctuary.lua')))()
+end
