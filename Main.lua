@@ -5,7 +5,9 @@ end
 if game.PlaceId == 318978013 then -- Kick Off
       loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/KickOff.lua'))()
 end
-
+if game.PlaceId == 8209480473 then -- Spotify Island
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Spotify-Island.lua"))()
+end
 if game.PlaceId == 9230434873 then -- Logitech Song Breaker Awards 
       loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Logitech-Song-Breaker-Awards.lua"))()
 end
