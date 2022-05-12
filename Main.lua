@@ -3,7 +3,10 @@ if game.PlaceId == 1962086868 then -- Tower Of Hell
 
 elseif game.PlaceId == 318978013 then -- Kick Off
       loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/KickOff.lua'))()
-
+      
+elseif game.PlaceId == 2248408710 -- Destruction Simulator
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Destruction-Simulator.lua"))()
+      
 elseif game.PlaceId == 8209480473 then -- Spotify Island
       loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Spotify-Island.lua"))()
 
