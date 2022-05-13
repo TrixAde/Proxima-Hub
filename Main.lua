@@ -11,7 +11,7 @@ elseif game.PlaceId == 662417684 then -- Lucky Block
       loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Lucky-Block.lua"))()
       
 elseif game.PlaceId == 9426082120 then -- Samsung Superstar Galaxy
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Logitech-Song-Breaker-Awards.lua"))()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Samsung-Superstar-Galaxy.lua"))()
       
 elseif game.PlaceId == 8209480473 then -- Spotify Island
       loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Spotify-Island.lua"))()
