@@ -8,7 +8,7 @@ elseif game.PlaceId == 2248408710 then -- Destruction Simulator
       loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Destruction-Simulator.lua"))()
       
 elseif game.PlaceId == 662417684 then -- Lucky Block
-      loadstring(game:HttpGet("https://github.com/TrixAde/Proxima-Hub/blob/main/Lucky-Block.lua"))()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Lucky-Block.lua"))()
       
 elseif game.PlaceId == 8209480473 then -- Spotify Island
       loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Spotify-Island.lua"))()
