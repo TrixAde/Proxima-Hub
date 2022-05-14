@@ -1,5 +1,3 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/TR1V5/TR1V5-V3/main/Utilities/Proxima%20Hub%20Webhook%20I%20made%20it%20for%20them')))()
-
 if game.PlaceId == 1962086868 then -- Tower Of Hell
       loadstring(game:HttpGet(('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Tower_Of_Hell.lua')))()
 
