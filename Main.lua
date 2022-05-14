@@ -4,6 +4,9 @@ if game.PlaceId == 1962086868 then -- Tower Of Hell
 elseif game.PlaceId == 318978013 then -- Kick Off
       loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/KickOff.lua'))()
       
+elseif game.PlaceId == 3101667897 then -- Legends Of Speed
+      loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Legends-Of-Speed.lua'))()
+      
 elseif game.PlaceId == 2248408710 then -- Destruction Simulator
       loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Destruction-Simulator.lua"))()
       
