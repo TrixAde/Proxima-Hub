@@ -10,11 +10,14 @@ elseif game.PlaceId == 3101667897 then -- Legends Of Speed
 elseif game.PlaceId == 2248408710 then -- Destruction Simulator
       loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Destruction-Simulator.lua"))()
 
-elseif game.PlaceId == 9604473769 then -- Tate McRae Concert Experience
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Tate-McRae-Concert-Experience.lua"))()
+elseif game.PlaceId == 3823781113 then -- Saber Simulator
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/SaberSimulator.lua"))()
 
 elseif game.PlaceId == 662417684 then -- Lucky Block
       loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Lucky-Block.lua"))()
+
+elseif game.PlaceId == 9604473769 then -- Tate McRae Concert Experience
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Tate-McRae-Concert-Experience.lua"))()
       
 elseif game.PlaceId == 9426082120 then -- Samsung Superstar Galaxy
       loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Samsung-Superstar-Galaxy.lua"))()
