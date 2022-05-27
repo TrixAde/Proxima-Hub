@@ -1,8 +1,8 @@
 if game.PlaceId == 1962086868 then -- Tower Of Hell
       loadstring(game:HttpGet(('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Tower_Of_Hell.lua')))()
 
-elseif game.PlaceId == 318978013 then -- Kick Off
-      loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/KickOff.lua'))()
+elseif game.PlaceId == 3956818381 then -- Ninja Legends
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/NinjaLegends.lua'))()
       
 elseif game.PlaceId == 3101667897 then -- Legends Of Speed
       loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Legends-Of-Speed.lua'))()
@@ -15,6 +15,9 @@ elseif game.PlaceId == 3823781113 then -- Saber Simulator
 
 elseif game.PlaceId == 662417684 then -- Lucky Block
       loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Lucky-Block.lua"))()
+
+elseif game.PlaceId == 318978013 then -- Kick Off
+      loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/KickOff.lua'))()
 
 elseif game.PlaceId == 9604473769 then -- Tate McRae Concert Experience
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Tate-McRae-Concert-Experience.lua"))()
