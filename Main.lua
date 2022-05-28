@@ -19,6 +19,9 @@ elseif game.PlaceId == 662417684 then -- Lucky Block
 elseif game.PlaceId == 318978013 then -- Kick Off
       loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/KickOff.lua'))()
 
+elseif game.PlaceId == 7830918930 then -- Gucci Town
+      loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Gucci-Town.lua'))()
+
 elseif game.PlaceId == 9604473769 then -- Tate McRae Concert Experience
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Tate-McRae-Concert-Experience.lua"))()
       
