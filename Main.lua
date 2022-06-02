@@ -19,6 +19,9 @@ elseif game.PlaceId == 662417684 then -- Lucky Block
 elseif game.PlaceId == 318978013 then -- Kick Off
       loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/KickOff.lua'))()
 
+elseif game.PlaceId == 9129288160 then -- Tommy Play
+      loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/TommyPlay.lua'))() 
+
 elseif game.PlaceId == 7830918930 then -- Gucci Town
       loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Gucci-Town.lua'))()
 
