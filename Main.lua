@@ -19,6 +19,9 @@ elseif game.PlaceId == 662417684 then -- Lucky Block
 elseif game.PlaceId == 263761432 then -- Horrific Housing
       loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/HorrificHousing.lua"))()
 
+elseif game.PlaceId == 8992150289 then -- Anime Sword Simulator
+      loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Anime-Sword-Simulator.lua'))()
+
 elseif game.PlaceId == 318978013 then -- Kick Off
       loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/KickOff.lua'))()
 
