@@ -25,6 +25,9 @@ elseif game.PlaceId == 8992150289 then -- Anime Sword Simulator
 elseif game.PlaceId == 318978013 then -- Kick Off
       loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/KickOff.lua'))()
 
+elseif game.PlaceId == 9249776514 then -- Givenchy Beauty House
+      loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Givenchy-Beauty-House.lua'))()
+
 elseif game.PlaceId == 9129288160 then -- Tommy Play
       loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/TommyPlay.lua'))() 
 
