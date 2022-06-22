@@ -3,6 +3,9 @@ if game.PlaceId == 1962086868 then -- Tower Of Hell
 
 elseif game.PlaceId == 3956818381 then -- Ninja Legends
     loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/NinjaLegends.lua'))()
+
+elseif game.PlaceId == 8540346411 then -- Rebirth Champions X
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Rebirth-ChampionX.lua'))()
       
 elseif game.PlaceId == 3101667897 then -- Legends Of Speed
       loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Legends-Of-Speed.lua'))()
