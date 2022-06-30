@@ -1,6 +1,7 @@
 --[[
 
 Original Script (Without Gui) Has Been Developed By JulMan#1234, Trix#2794 for Gui
+
 Join Our Discord Server : https://discord.gg/TT3y4gkJtq
 
 
