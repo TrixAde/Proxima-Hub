@@ -1,12 +1,12 @@
-if game.PlaceId == 1962086868 then -- Tower Of Hell
-      loadstring(game:HttpGet(('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Tower_Of_Hell.lua')))()
+if game.PlaceId == 8750997647 then -- Tapping Legends X
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/TappingLegendsX.lua'))()
+
+elseif game.PlaceId == 8540346411 then -- Rebirth Champions X
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Rebirth-ChampionX.lua'))()
 
 elseif game.PlaceId == 3956818381 then -- Ninja Legends
     loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/NinjaLegends.lua'))()
 
-elseif game.PlaceId == 8540346411 then -- Rebirth Champions X
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Rebirth-ChampionX.lua'))()
-      
 elseif game.PlaceId == 3101667897 then -- Legends Of Speed
       loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Legends-Of-Speed.lua'))()
       
@@ -15,6 +15,9 @@ elseif game.PlaceId == 2248408710 then -- Destruction Simulator
 
 elseif game.PlaceId == 3823781113 then -- Saber Simulator
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/SaberSimulator.lua"))()
+
+elseif game.PlaceId == 1962086868 then -- Tower Of Hell
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Tower_Of_Hell.lua')))()
 
 elseif game.PlaceId == 662417684 then -- Lucky Block
       loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Lucky-Block.lua"))()
