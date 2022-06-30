@@ -1,6 +1,6 @@
 --[[
 
-This Script Has Been Developed By Trix#2794 and JulMan#1234
+This Script Has Been Developed By Trix#2794 & JulMan#1234
 Join Our Discord Server : https://discord.gg/TT3y4gkJtq
 
 
