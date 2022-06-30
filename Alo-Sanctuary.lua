@@ -1,5 +1,6 @@
 --[[
-Developed By Trix#2794
+
+This Script Has Been Developed By Trix#2794
 
 
  ██▓███   ██▀███   ▒█████  ▒██   ██▒ ██▓ ███▄ ▄███▓ ▄▄▄          ██░ ██  █    ██  ▄▄▄▄   
