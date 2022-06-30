@@ -1,6 +1,7 @@
 --[[
 
 This Script Has Been Developed By Trix#2794
+Join Our Discord Server : https://discord.gg/TT3y4gkJtq
 
 
  ██▓███   ██▀███   ▒█████  ▒██   ██▒ ██▓ ███▄ ▄███▓ ▄▄▄          ██░ ██  █    ██  ▄▄▄▄   
