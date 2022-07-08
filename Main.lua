@@ -4,6 +4,9 @@ if game.PlaceId == 8750997647 then -- Tapping Legends X
 elseif game.PlaceId == 8540346411 then -- Rebirth Champions X
     loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Rebirth-ChampionX.lua'))()
 
+elseif game.PlaceId == 9266432096 then -- Anime Journey
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Anime-Journey.lua'))()
+
 elseif game.PlaceId == 3956818381 then -- Ninja Legends
     loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/NinjaLegends.lua'))()
 
