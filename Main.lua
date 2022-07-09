@@ -10,6 +10,9 @@ elseif game.PlaceId == 9274997956 then -- Anime Journey
 elseif game.PlaceId == 3956818381 then -- Ninja Legends
     loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/NinjaLegends.lua'))()
 
+elseif game.PlaceId == 4036494886 then -- Gun Simulator
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/GunSimulator.lua'))()
+
 elseif game.PlaceId == 3101667897 then -- Legends Of Speed
       loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Legends-Of-Speed.lua'))()
       
