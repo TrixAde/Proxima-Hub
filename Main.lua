@@ -4,7 +4,7 @@ if game.PlaceId == 8750997647 then -- Tapping Legends X
 elseif game.PlaceId == 8267733039 then -- Specter 2
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Specter2"))()
     
-elseif game.PlaceId == 8417221956 then -- Specter 2
+elseif game.PlaceId == 8417221956 then -- Specter 2 [LOBBY]
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Specter2"))()
 
 elseif game.PlaceId == 8540346411 then -- Rebirth Champions X
