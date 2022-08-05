@@ -7,6 +7,12 @@ elseif game.PlaceId == 8267733039 then -- Specter 2 [LOBBY]
 elseif game.PlaceId == 8417221956 then -- Specter 2 [INGAME]
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Specter2"))()
 
+elseif game.PlaceId == 3851622790 then -- Break In [LOBBY]
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/BreakIn.lua"))()
+    
+elseif game.PlaceId == 4620170611 then -- Break In [INGAME]
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/BreakIn.lua"))()
+
 elseif game.PlaceId == 8540346411 then -- Rebirth Champions X
     loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Rebirth-ChampionX.lua'))()
 
