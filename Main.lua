@@ -43,6 +43,9 @@ elseif game.PlaceId == 8992150289 then -- Anime Sword Simulator
 elseif game.PlaceId == 318978013 then -- Kick Off
       loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/KickOff.lua'))()
 
+elseif game.PlaceId == 35397735 then -- Scuba Diving At Quill Lake
+      loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/ScubaDiving.lua'))()
+
 elseif game.PlaceId == 9249776514 then -- Givenchy Beauty House
       loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Givenchy-Beauty-House.lua'))()
 
