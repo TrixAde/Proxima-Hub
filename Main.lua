@@ -7,8 +7,8 @@ elseif game.PlaceId == 8267733039 or game.PlaceId == 8417221956 then -- Specter 
 elseif game.PlaceId == 3851622790 or game.PlaceId == 4620170611 then -- Break In [LOBBY] / [IN GAME]
     loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/BreakIn.lua"))()
     
-elseif game.PlaceId == 8540346411 then -- Rebirth Champions X
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Rebirth-ChampionX.lua'))()
+elseif game.PlaceId == 9498006165 then -- Tapping Simulator
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/TappingSimulator.lua'))()
 
 elseif game.PlaceId == 9274997956 then -- Anime Journey
     loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Anime-Journey.lua'))()
@@ -75,6 +75,9 @@ elseif game.PlaceId == 9230434873 then -- Logitech Song Breaker Awards
 
 elseif game.PlaceId == 8523408215 then -- Alo Sanctuary
       loadstring(game:HttpGet(('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Alo-Sanctuary.lua')))()
+
+elseif game.PlaceId == 8540346411 then -- Rebirth Champions X
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Rebirth-ChampionX.lua'))()
 
 elseif game.PlaceId == 8528736393 then -- Beatland
       loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Beatland-Script.lua"))()
